@@ -1,0 +1,6 @@
+{
+  "name": "Fertilizer Distribution",
+  "description": "Premium minimal mobile-first prototype for fertilizer distribution management including warehouse, village assistant, owner, and accountant flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
